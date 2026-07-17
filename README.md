@@ -1,15 +1,17 @@
-# Hi there! 
+# Hi there! ( ^_^) 😊
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Abubakar's Developer Profile Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
+  <img alt="Abubakar's Developer Profile Banner" src="dark.svg?v=2" width="100%">
 </picture>
 
 ## About Me
 
-I am a Full Stack Developer & UI/UX enthusiast passionate about building modern, animated, and premium web applications. 
+Computer Science Student at IST | Aspiring Software Developer with a Passion for Exploring Innovative Solutions in Programming and Graphic Design.
 
-- 🚀 **Current Focus**: Next.js, TypeScript, Node.js & Generative AI.
-- 💼 **Portfolio**: https://my-3d-portfolio-snowy-eight.vercel.app/
-  
+- 📍 **Location**: Islamabad, Pakistan
+- 🎓 **Education**: BS Computer Science — IST
+- 🚀 **Current Focus**: Software Development & Graphic Design
+- 💼 **Portfolio**: [my-3d-portfolio-snowy-eight.vercel.app](https://my-3d-portfolio-snowy-eight.vercel.app/)
+- 📫 **Email**: abubakar2pp@gmail.com
