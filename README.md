@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! ( ^_^)／
 
-<!--
-**Abubakar477/Abubakar477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Abubakar's Developer Profile Banner" src="dark.svg" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Developer & UI/UX enthusiast passionate about building modern, animated, and premium web applications. 
+
+- 🚀 **Current Focus**: Next.js, TypeScript, Node.js & Generative AI.
+- 💼 **Portfolio**: [abubakar.dev](https://abubakar.dev)
+- ✉️ **Contact**: hello@abubakar.dev
