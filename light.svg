@@ -458,7 +458,7 @@
   <g transform="translate(0, 0)">
     <!-- Greeting -->
     <text class="txt-inter" x="520" y="132">
-      <tspan font-size="20" font-weight="500" fill="#475569">Hi ( ^_^)／</tspan>
+      <tspan font-size="20" font-weight="500" fill="#475569">Hi (^_^) 😊</tspan>
       <tspan font-size="28" font-weight="800" fill="url(#accent-grad)" dx="12">I'm Abubakar</tspan>
     </text>
 
