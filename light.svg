@@ -543,7 +543,7 @@
       
       <!-- Text Labels -->
       <text class="txt-inter" x="548" y="225" font-size="13" font-weight="500" fill="#475569">Location:</text>
-      <text class="txt-fira" x="635" y="225" font-size="13" font-weight="500" fill="#0F172A">San Francisco, CA</text>
+      <text class="txt-fira" x="635" y="225" font-size="13" font-weight="500" fill="#0F172A">Islamabad, Pakistan</text>
     </g>
     <g opacity="0" transform="translate(0, 0)">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.2s" fill="freeze" />
@@ -554,7 +554,7 @@
       
       <!-- Text Labels -->
       <text class="txt-inter" x="548" y="259" font-size="13" font-weight="500" fill="#475569">Education:</text>
-      <text class="txt-fira" x="635" y="259" font-size="13" font-weight="500" fill="#0F172A">B.S. in Computer Science</text>
+      <text class="txt-fira" x="635" y="259" font-size="13" font-weight="500" fill="#0F172A">BS in Computer Science (IST)</text>
     </g>
     <g opacity="0" transform="translate(0, 0)">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze" />
@@ -565,7 +565,7 @@
       
       <!-- Text Labels -->
       <text class="txt-inter" x="548" y="293" font-size="13" font-weight="500" fill="#475569">Current Focus:</text>
-      <text class="txt-fira" x="635" y="293" font-size="13" font-weight="500" fill="#0F172A">Next.js &amp; Generative AI</text>
+      <text class="txt-fira" x="635" y="293" font-size="13" font-weight="500" fill="#0F172A">Software Dev &amp; Graphic Design</text>
     </g>
     <g opacity="0" transform="translate(0, 0)">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze" />
@@ -576,7 +576,7 @@
       
       <!-- Text Labels -->
       <text class="txt-inter" x="548" y="327" font-size="13" font-weight="500" fill="#475569">Portfolio:</text>
-      <text class="txt-fira" x="635" y="327" font-size="13" font-weight="500" fill="#0F172A">abubakar.dev</text>
+      <text class="txt-fira" x="635" y="327" font-size="13" font-weight="500" fill="#0F172A">my-3d-portfolio-snowy-eight.vercel.app</text>
     </g>
     <g opacity="0" transform="translate(0, 0)">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.8s" fill="freeze" />
@@ -587,7 +587,7 @@
       
       <!-- Text Labels -->
       <text class="txt-inter" x="548" y="361" font-size="13" font-weight="500" fill="#475569">Email:</text>
-      <text class="txt-fira" x="635" y="361" font-size="13" font-weight="500" fill="#0F172A">hello@abubakar.dev</text>
+      <text class="txt-fira" x="635" y="361" font-size="13" font-weight="500" fill="#0F172A">abubakar2pp@gmail.com</text>
     </g>
 
     <!-- Skills Header -->
