@@ -11,5 +11,5 @@
 I am a Full Stack Developer & UI/UX enthusiast passionate about building modern, animated, and premium web applications. 
 
 - 🚀 **Current Focus**: Next.js, TypeScript, Node.js & Generative AI.
-- 💼 **Portfolio**: [abubakar.dev](https://abubakar.dev)
-- ✉️ **Contact**: hello@abubakar.dev
+- 💼 **Portfolio**: https://my-3d-portfolio-snowy-eight.vercel.app/
+  
