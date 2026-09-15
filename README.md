@@ -94,9 +94,9 @@ I'm passionate about building impactful software, crafting modern interactive we
      github-readme-stats / streak-stats / github-profile-trophy: those are
      shared public instances that go down and take the whole section with them. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=2">
+  <img src="assets/card-stats-dark.svg?v=2" width="480" alt="GitHub statistics">
 </picture>
 
 <br>
