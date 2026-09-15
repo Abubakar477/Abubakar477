@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- BANNER - terminal profile.sh --live -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
-  <img src="dark.svg?v=2" width="100%" alt="Abubakar's Developer Profile Banner">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
 </picture>
 
 <br>
