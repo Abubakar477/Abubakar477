@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Software Engineering",    "value": 88 },
+    { "label": "React / Next.js",         "value": 85 },
+    { "label": "Graphic Design / UI-UX",  "value": 90 },
+    { "label": "Python & Scripting",      "value": 86 },
+    { "label": "C / C++ Programming",     "value": 80 },
+    { "label": "Git & CI/CD",             "value": 82 },
+    { "label": "Database & Systems",      "value": 78 }
+  ]
+}

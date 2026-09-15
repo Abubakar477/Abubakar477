@@ -1,0 +1,4 @@
+{
+  "_comment": "Add any repositories you want standalone cards generated for. If empty, cards.py skips repo cards.",
+  "projects": []
+}
